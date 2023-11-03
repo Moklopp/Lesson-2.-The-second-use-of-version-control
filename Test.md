@@ -7,3 +7,4 @@ git
 
 git branch - вывести все ветки
 git log - Выводит коммиты
+git branch name
