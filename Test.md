@@ -11,3 +11,4 @@ git branch name
 git log --graph
 git init
 git add
+git status
