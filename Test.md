@@ -7,8 +7,6 @@ git
 
 git branch - вывести все ветки
 git log - Выводит коммиты
-<<<<<<< HEAD
 git branch name
-=======
 git log --graph
->>>>>>> Conflict
+git init
