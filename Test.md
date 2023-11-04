@@ -10,3 +10,4 @@ git log - Выводит коммиты
 git branch name
 git log --graph
 git init
+git add
